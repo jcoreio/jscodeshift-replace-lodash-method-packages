@@ -39,7 +39,8 @@
     "url": "https://github.com/jcoreio/jscodeshift-replace-lodash-method-packages.git"
   },
   "keywords": [
-    "skeleton"
+    "jscodeshift",
+    "lodash"
   ],
   "bugs": {
     "url": "https://github.com/jcoreio/jscodeshift-replace-lodash-method-packages/issues"
