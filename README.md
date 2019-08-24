@@ -14,7 +14,7 @@ submodules (e.g. `lodash/mapValues`)
 
 1. `yarn global add jscodeshift`
 1. `git clone https://github.com/jcoreio/jscodeshift-replace-lodash-method-packages.git`
-1. Run `yarn install` in the react-codemod directory
+1. Run `yarn install` in the cloned directory
 1. `jscodeshift -t <path/to>/jscodeshift-replace-lodash-method-packages/index.js <path>`
    * `path` - files or directory to transform;
    * use the `-d` option for a dry-run and use `-p` to print the output for comparison;
